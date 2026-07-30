@@ -155,9 +155,9 @@ Aspiring Data Analyst | Python | SQL | Tableau | Educational Data Science & AI i
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Tableau Public: https://public.tableau.com/app/profile/YOUR_PROFILE
+- GitHub: https://github.com/Monday-Maurice
+- LinkedIn: https://linkedin.com/in/maurice-monday
+- Tableau Public: https://public.tableau.com/app/profile/maurice.monday
 
 ---
 
