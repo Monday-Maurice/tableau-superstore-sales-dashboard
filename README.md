@@ -116,15 +116,6 @@ tableau-superstore-sales-dashboard/
 
 ---
 
-## 📸 Dashboard Preview
-
-> Add a screenshot of your dashboard here after uploading it.
-
-Example:
-
-```
-![Dashboard Preview](images/dashboard_overview.png)
-```
 
 ---
 
